@@ -1,11 +1,10 @@
 {
   "name": "test-semantic-release",
-  "private": true,
+  "private": false,
   "publishConfig": {
-    "registry": "https://www.npmjs.com/maersktankers-digital"
+    "registry": "https://www.npmjs.com/maersktankers-digital/"
   },
   "dependencies": {
-    "semantic-release": "^17.0.2"
-  },
-  "version": "1.3.0"
+    "version": "1.3.0-develop.2"
+  }
 }
